@@ -6,6 +6,7 @@ npm start
 
 backend: node, express mongodb and pusher\
 add mongodb link and pusher configuration link in server.js file\
+npm install\
 npm run dev
 
 Thanks to youtube channel "Clever Programmer"
